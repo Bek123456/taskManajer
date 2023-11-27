@@ -10,4 +10,13 @@ public class Service {
     public List<Task>finsTask(){
 
     }
+    public void update(){
+
+    }
+    public void deleted(){
+
+    }
+    public void doneTask(){
+        
+    }
 }
